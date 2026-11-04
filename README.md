@@ -21,6 +21,14 @@ The application is designed for local execution, allowing engineers to analyze t
 
 ---
 
+## Application Preview
+
+The TTIC application provides a centralized interface for engineering test analysis, visualization, comparison, and reporting.
+
+![TTIC Application Overview](Screenshots/TTIC%20Home%20Page.png)
+
+---
+
 ## The Engineering Challenge
 
 Engineering test environments frequently generate large volumes of measurement data across multiple channels and test runs.
@@ -270,10 +278,9 @@ TTIC is not currently presented as a certified measurement system or a productio
 
 The repository also contains supporting materials covering the complete solution and its intended engineering usage.
 
-- **End-to-End Engineering Presentation:** Problem statement, solution architecture, functionality, analytical capabilities, deployment approach, and pilot roadmap.
-- **Engineering Pilot User Guide:** Application navigation, data import, analysis procedures, test comparison, reporting, troubleshooting, and pilot validation guidance.
+- **End-to-End Engineering Presentation:** [View Presentation](documentations/TTIC_End_to_End_Engineering_Presentation.pdf)
 
-These documents are available in the `documentations/` folder.
+- **Engineering Pilot User Guide:** [View User Guide](documentations/TTIC_Engineering_Pilot_User_Guide.pdf)
 
 ---
 
