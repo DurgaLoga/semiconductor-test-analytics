@@ -278,7 +278,7 @@ TTIC is not currently presented as a certified measurement system or a productio
 
 The repository also contains supporting materials covering the complete solution and its intended engineering usage.
 
-- **End-to-End Engineering Presentation:** [View Presentation](documentations/TTIC_End_to_End_Engineering_Presentation.pdf)
+- **End-to-End Engineering Presentation:** [View Presentation](documentations/TTIC_End_to_End_Engineering.pdf)
 
 - **Engineering Pilot User Guide:** [View User Guide](documentations/TTIC_Engineering_Pilot_User_Guide.pdf)
 
